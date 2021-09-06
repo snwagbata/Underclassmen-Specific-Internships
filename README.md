@@ -2,5 +2,6 @@
 
 | Name  |  Status | Position | App Status | Opens | Extra Criteria |
 |---|----|-----|-----|--------|---|
-| Facebook University| Fresh/Soph | SDE | <li>[x] Open</li> | August | |
-| Facebook University| Fresh/Soph | SDE | <li>[x] Open</li> | August | |
+| <a href="https://www.facebook.com/careers/FBUEngineering">Facebook University</a> | Fresh/Soph | SDE | :heavy_check_mark: Open | August 31 | |
+| <a href="https://www.facebook.com/careers/fbuanalytics">Facebook University</a> | Soph | Analytics | :x: Closed | Spetember 15 | |
+| <a href="https://www.facebook.com/careers/fbuproductdesign">Facebook University</a> | Soph | Product Design | :x: Closed | Spetember 15 | |
